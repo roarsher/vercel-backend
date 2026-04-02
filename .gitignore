@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Uploads
+server/uploads/aadhaar/
+server/uploads/land-documents/
+server/uploads/farm-photos/
+
+# Build
+client/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
