@@ -4,6 +4,6 @@ module.exports = {
   JWT_SECRET:  process.env.JWT_SECRET,
   JWT_EXPIRE:  process.env.JWT_EXPIRE  || '7d',
   // CLIENT_URL:  process.env.CLIENT_URL  || 'http://localhost:3000',
-  CLIENT_URL:  process.env.CLIENT_URL  || 'https://vercel-backend-1-ixpf.onrender.com',
+  CLIENT_URL:  process.env.CLIENT_URL  || 'https://fullfrontend-nine.vercel.app/',
   NODE_ENV:    process.env.NODE_ENV    || 'development',
 };
