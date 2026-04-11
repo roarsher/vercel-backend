@@ -15,7 +15,7 @@ const app = express();
  app.use(cors({
   origin: [
     "http://localhost:3000",
-    "https://fullfrontend-nine.vercel.app"  // ✅ ADD THIS
+    "https://farmfund-nine.vercel.app"  // ✅ ADD THIS
   ],
   credentials: true
 }));
